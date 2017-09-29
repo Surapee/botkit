@@ -179,6 +179,11 @@ controller.api.messenger_profile.menu([{
                     "title":"Hi",
                     "type":"postback",
                     "payload":"Hi"
+                },
+                {
+                    "title":"Good Morning",
+                    "type":"postback",
+                    "payload":"Good Morning"
                 }
             ]
         },

@@ -50,6 +50,10 @@ This bot demonstrates many of the core features of Botkit:
   Say: "shutdown"
 
   The bot will ask if you are sure, and then shut itself down.
+  
+  Say: "uptime"
+  
+  The bot will tell you its work duration.
 
   Make sure to invite your bot into other channels using /invite @<my bot>!
 
